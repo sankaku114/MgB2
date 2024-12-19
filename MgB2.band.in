@@ -1,0 +1,6 @@
+&bands 
+outdir ='./tmp' 
+prefix='MgB2' 
+filband='MgB2.band' 
+lsym= .true. 
+/ 
